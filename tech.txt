@@ -1,3 +1,7 @@
 Hi, trying out github.
+<<<<<<< HEAD
 Weather is nice today in aachen.
 
+=======
+Trying to add a new line to the text
+>>>>>>> d38ceeaf671e1154b99e0369ac823c88ccc8a6a5
