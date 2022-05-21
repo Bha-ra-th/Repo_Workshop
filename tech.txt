@@ -1,2 +1,2 @@
 Hi, trying out github.
-Trying to add a new line to the text
+Weather is nice today in aachen.
