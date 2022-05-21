@@ -1,2 +1,3 @@
 I saw an orange and made a new file with that name
 Trying to create a conflict
+Adding new lines to the text. Hope it works!
